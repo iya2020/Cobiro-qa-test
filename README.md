@@ -3,7 +3,7 @@
 ## Structure
 
 - Created folder page-objects
-- Page-object folder conteins two files
+- Page-object folder contains two files
 - app.po.ts file contains description of elements of main page and details page
 - navigation-page.po.ts contains description of elements of navigation block and header
 - in specs folder there are two files
